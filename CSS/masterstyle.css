@@ -1,6 +1,15 @@
 *{
     padding:0;
     margin:0;
-    color:rgb(188, 236, 75)
+    color:rgb(188, 236, 75);
     text-alignL center;
+}
+
+html, body{
+    background-color: white;
+}
+
+.main-container{
+    border:4px solid rgb(55, 43, 226);
+    border-radius: 20px;
 }

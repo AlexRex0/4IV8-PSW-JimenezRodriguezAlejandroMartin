@@ -29,6 +29,10 @@ nav{
     float: right;
 }
 
+li{
+    align-items: center;
+}
+
 .article{
     border: 5px solid #5bc8ac;
     height: 200px;
